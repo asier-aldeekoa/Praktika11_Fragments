@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mHome"
+        android:icon="@drawable/home"
+        android:title="@string/menu_Home" />
+    <item
+        android:id="@+id/mGehitu"
+        android:icon="@drawable/produktuagehitu"
+        android:title="@string/menu_Gehitu" />
+    <item
+        android:id="@+id/mExit"
+        android:icon="@drawable/close"
+        android:title="@string/menu_Irten" />
+</menu>

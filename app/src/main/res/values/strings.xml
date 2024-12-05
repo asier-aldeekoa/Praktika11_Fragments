@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Praktika11_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="fragment_home">HOME</string>
+    <string name="fragment_profile">PROFILE</string>
+    <string name="fragment_support">SUPPORT</string>
+    <string name="fragment_static">STATIC</string>
+
+    <!-- Menu Izenak -->
+    <string name="menu_Home">Inicio</string>
+    <string name="menu_Gehitu">Produktua Gehitu</string>
+    <string name="menu_Irten">Salir</string>
+
+
+    // Izenak ProductManagementActivity
+    <string name="lblAltzaria">Altzari Izena</string>
+    <string name="lblAltzariMota">Altzari Mota</string>
+    <string name="lblMaterialMota">Material Mota</string>
+    <string name="lblDimentsioak">Dimentsioak</string>
+    <string name="lblPrezioa">Prezioa</string>
+    <string name="chkBox1">Egurra</string>
+    <string name="chkBox2">Metala</string>
+    <string name="chkBox3">Plastikoa</string>
+    <string name="chkBox4">Kristala</string>
+    <string name="chkBox5">Harria</string>
+    <string name="chkBox6">Larrua </string>
+    <string name="lblStock">Eskuragarri dago? </string>
+    <string name="chkStock">BAI</string>
+    <string name="btnAltzariGehitu">ALTZARIA GEHITU</string>
+
+    <string name="btnBueltatu">Bueltatu</string>
+</resources>
